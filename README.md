@@ -4,7 +4,7 @@ Currently I'm working on a horror game called intimidated (more info in the futu
 ## 📫 Links and Contact
 Personal website [Click here](https://awawpurple.pl)
 
-Contact me [Click here](https://awawpurple.pl/contact.html)
+Contact me [Click here](https://awawpurple.pl/contact)
 
 ## ⚡ What I know
 ✔ - HTML
